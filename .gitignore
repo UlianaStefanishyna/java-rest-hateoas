@@ -9,3 +9,5 @@ HELP.md
 **/*.iml
 **/target
 **/.mvn
+**/mvnw
+mvnw.cmd
